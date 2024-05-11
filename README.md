@@ -1,4 +1,4 @@
-# Emails.sh
+# Email.sh
 Simple bash script that searches website for emails using regex
 
-./emails.sh
+<code>./email.sh</code>
